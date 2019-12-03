@@ -14,4 +14,4 @@ To set up this project, follow these instructions:
 (4) Run the server using
 ```$ python3 manage.py runserver```
 
-(5) go to https://localhost:8000 to see "Hello World!"
+(5) go to http://localhost:8000 to see "Hello World!"
